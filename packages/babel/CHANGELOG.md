@@ -1,5 +1,17 @@
 # Change Log
 
+## 4.2.2
+
+### Patch Changes
+
+- Updated dependencies [8a8be242]
+- Updated dependencies [8a8be242]
+- Updated dependencies [87ffe61c]
+  - @linaria/shaker@4.2.2
+  - @linaria/utils@4.2.2
+  - @linaria/core@4.1.4
+  - @linaria/tags@4.1.4
+
 ## 4.2.1
 
 ### Patch Changes

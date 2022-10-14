@@ -1,5 +1,12 @@
 # Change Log
 
+## 4.1.5
+
+### Patch Changes
+
+- @linaria/webpack4-loader@4.1.5
+- @linaria/webpack5-loader@4.1.5
+
 ## 4.1.4
 
 ### Patch Changes

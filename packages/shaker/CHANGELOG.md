@@ -1,5 +1,16 @@
 # Change Log
 
+## 4.2.2
+
+### Patch Changes
+
+- 8a8be242: Fix an incorrect dead-code detection when a function has a parameter with the same name as the function itself. Fixes #1055
+- 8a8be242: Fix rare use case when `void`-expression causes too aggressive tree-shaking. Fixes #1055.
+- Updated dependencies [8a8be242]
+- Updated dependencies [8a8be242]
+- Updated dependencies [87ffe61c]
+  - @linaria/utils@4.2.2
+
 ## 4.2.1
 
 ### Patch Changes
